@@ -11,7 +11,7 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 15
 
-- Letzten beiden Wochen nichts gemacht, da wir auf den Datensatz gewartet haben.
+- Setups auf den Rechnern vorbereiten (Laden der Pakete, etc.), warten auf den Datensatz.
 
 ### KW 17
 
