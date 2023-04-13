@@ -11,7 +11,7 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 15
 
-- Hier kommt euer aktueller Stand rein...
+- Letzten beiden Wochen nichts gemacht, da wir auf den Datensatz gewartet haben.
 
 ### KW 17
 
