@@ -15,11 +15,15 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 17
 
-- Hier kommt euer aktueller Stand rein...
+- Erstellten Datensatz laden, neues Notebook erstellen und erste Statistiken durchführen.
+    - Statistiken aus dem ersten pandas Tutorial 
+    - Neue Statisiken mit Schimpfwörtern (Bsp. Wie viele Schimpfwörter sind in einem Song, Schimpfwörter pro Interpret)
+    - Neue Statistik mit der Länge der Texte
 
 ### KW 19
 
-- Hier kommt euer aktueller Stand rein...
+- Brainstorming neuer möglicher Visualisierungen:
+    - 
 
 ### KW 21
 
