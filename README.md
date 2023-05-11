@@ -23,7 +23,17 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 ### KW 19
 
 - Brainstorming neuer möglicher Visualisierungen:
-    - 
+    - Songlänge (anhand der Wörter) pro Genre
+    - Heatmap - x Achse Genre Y Achse Schimpwörter pro Künstler
+    - Schimpfwörter pro Genre
+    - Häufigkeit der Schimpfwörter im laufe der Jahre pro Genre? Liniendiagramm
+    - Welche Orte werden in Rap Songs genannt auf Landkarte Visualisieren 
+    - Sentiment Analyse eines Genres (Stimmung in einem Genre erkennen) 
+    - Wie viele verschiedene Wörter nutzen bestimmte Artists oder bestimmte Genres 
+    - In wie vielen Songs kommt da Thema Liebe vor , pro Genre vielleicht
+    - Am häufigsten genannte Wörter pro Genre 
+    - In welchem Monat wurden die meisten Songs released nach Genre (oder allgemein)
+    - Anzahl der Alben pro Genre in Karriere Schnitt
 
 ### KW 21
 
