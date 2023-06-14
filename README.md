@@ -41,7 +41,7 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 23
 
-- Hier kommt euer aktueller Stand rein...
+- Die oben genannten Visualisierungen wurden besprochen und verbesserungen vorgenommen.
 
 ### KW 25
 
