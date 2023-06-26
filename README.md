@@ -15,19 +15,33 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 17
 
-- Hier kommt euer aktueller Stand rein...
+- Erstellten Datensatz laden, neues Notebook erstellen und erste Statistiken durchführen.
+    - Statistiken aus dem ersten pandas Tutorial 
+    - Neue Statisiken mit Schimpfwörtern (Bsp. Wie viele Schimpfwörter sind in einem Song, Schimpfwörter pro Interpret)
+    - Neue Statistik mit der Länge der Texte
 
 ### KW 19
 
-- Hier kommt euer aktueller Stand rein...
+- Brainstorming neuer möglicher Visualisierungen:
+    - Songlänge (anhand der Wörter) pro Genre
+    - Heatmap - x Achse Genre Y Achse Schimpwörter pro Künstler
+    - Schimpfwörter pro Genre
+    - Häufigkeit der Schimpfwörter im laufe der Jahre pro Genre? Liniendiagramm
+    - Welche Orte werden in Rap Songs genannt auf Landkarte Visualisieren 
+    - Sentiment Analyse eines Genres (Stimmung in einem Genre erkennen) 
+    - Wie viele verschiedene Wörter nutzen bestimmte Artists oder bestimmte Genres 
+    - In wie vielen Songs kommt da Thema Liebe vor , pro Genre vielleicht
+    - Am häufigsten genannte Wörter pro Genre 
+    - In welchem Monat wurden die meisten Songs released nach Genre (oder allgemein)
+    - Anzahl der Alben pro Genre in Karriere Schnitt
 
 ### KW 21
 
-- Hier kommt euer aktueller Stand rein...
+- Es wurde eine Aufteilung und Umsetzung der oben genannten Visualisierungen vorgenommen. 
 
 ### KW 23
 
-- Hier kommt euer aktueller Stand rein...
+- Die oben genannten Visualisierungen wurden besprochen und verbesserungen vorgenommen.
 
 ### KW 25
 
